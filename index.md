@@ -7,10 +7,10 @@ layout: home
 <img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 rainbow logo" width="500">
 
 ## The Idea
-My proposal is to integrate a biological data exercise into the COMP 110 curriculum to better serve the the large amount of health related majors in the course.
+My proposal is to integrate a biological data exercise into the COMP 110 curriculum to better serve the large amount of health related majors in the course.
 
 ## Stakeholder Analysis
-After analyxing the course data, I identified 102 students currently majoring in health-related fields in the course. This represents a massive portion of the student body that would benefit from health-specific data context.
+After analyzing the course data, I identified 102 students currently majoring in health-related fields in the course. This represents a massive portion of the student body that would benefit from health-specific data context.
 
 ### Distribution of Majors
 ![Major Count Plot](static/imgs/count_plot.png)
