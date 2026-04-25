@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP 110 Survey
+title: COMP 110 Survey Analysis
 email: silasdd@unc.edu
 description: >- 
  Evaluating improvements to COMP 110 based on student feedback.
 
 baseurl: "/custom-path"
-url: "https://silasdd.github.io"
+url: "silasdd.github.io"
 
 twitter_username: jekyllrb
 github_username:  jekyll

@@ -1,6 +1,6 @@
 ---
 # Do not edit the text between these lines!
-layout: default
+layout: home
 ---
 
 # This is a big header
