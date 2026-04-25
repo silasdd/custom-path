@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP 110 Survey Analysis
+title: Improving COMP 110 with Biological Data Exercise
 email: silasdd@unc.edu
 description: >- 
  Evaluating improvements to COMP 110 based on student feedback.
