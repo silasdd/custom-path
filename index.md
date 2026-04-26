@@ -7,10 +7,10 @@ layout: home
 <img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 rainbow logo" width="500">
 
 ## The Idea
-My proposal is to integrate a biological data exercise into the COMP 110 curriculum to better serve the large amount of health related majors in the course.
+My proposal is to integrate a biological data exercise into the COMP 110 curriculum to better serve the large amount of health-related majors in the course.
 
 ## Stakeholder Analysis
-After analyzing the course data, I identified 102 students currently majoring in health-related fields in the course. This represents a large portion of students in the course that would benefit from health-specific data context.
+After analyzing the course data, I identified 102 students currently majoring in health-related fields in the course. This represents a large portion of students in the course that would benefit from a health-specific data Exercise.
 
 ### Distribution of Majors
 ![Major Count Plot](static/imgs/count_plot.png)
@@ -33,4 +33,4 @@ After analyzing the course data, I identified 102 students currently majoring in
 
 **Trade-offs:** The primary costs are instructor development time and the risk of over-specialization, which might alienate students in non health-related majors.
 
-**Future Work:** I recommend a "modular" approach where students can choose between biological, financial, or social-science datasets for at least one Exercise to maximize course material relevance for everyone.
+**Future Work:** I recommend a "modular" approach where students can choose between biological, financial, or social-science datasets for at least one Exercise to maximize course material relevance and value towards future careers for everyone.
