@@ -15,7 +15,7 @@ After analyzing the course data, I identified 102 students currently majoring in
 ### Distribution of Majors
 ![Major Count Plot](static/imgs/count_plot.png)
 
-*This count plot demonstrates the significant volume of health-related majors in this section of COMP 110.
+*This count plot demonstrates the significant volume of health-related majors in this section of COMP 110.*
 
 ### Career Value vs. Graduation Year
 ![Scatter Plot](static/imgs/scatter_plot.png)
